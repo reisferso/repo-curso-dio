@@ -3,7 +3,7 @@
 Repositorio do curso de git pela DIO
 fala sobre os Repositorio locais e como fazer o commit
 
-##📚 Slides de Atividades
+##📚 Slides de Atividades < br />
 Ex 1: Peça um número até que o usuário digite zero.
 Ex 2: Solicite senhas até acertar.
 Ex 3: Some números até o usuário digitar negativo.
